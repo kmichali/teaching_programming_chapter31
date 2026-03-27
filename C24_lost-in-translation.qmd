@@ -12,10 +12,10 @@ author:
     affiliations: Edinburgh Futures Institute, University of Edinburgh
   - name: Yanina Bellini Saibene
     email: yabellini@gmail.com
-    affiliations: Universidad Austral, rOpenSci, R-Ladies Project, The Carpentries
+    affiliations: rOpenSci, Universidad Austral, R-Ladies, The Carpentries
 
 keywords:
-  - Translation
+  - Translation platforms
   - Internationalisation/Localisation
   - Coding-based teaching materials
   - Multilingual education
