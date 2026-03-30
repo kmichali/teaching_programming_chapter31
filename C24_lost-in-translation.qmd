@@ -5,7 +5,7 @@ author:
   - name: Olexandr Konovalov
     email: obk1@st-andrews.ac.uk
     corresponding: true
-    affiliations: School of Computer Science, Univeristy of St Andrews; The Carpentries
+    affiliations: School of Computer Science, University of St Andrews
   - name: Lucia Michielin
     email: lucia.michielin@ed.ac.uk
     corresponding: true
