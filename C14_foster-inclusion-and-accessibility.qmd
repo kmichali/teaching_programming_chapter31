@@ -11,7 +11,7 @@ author:
   - name: Brittany Blankinship
     affiliation:  Edinburgh Medical School, University of Edinburgh
   - name: Patrica Loto
-    affiliation: TODO
+    affiliation: FACENA, Universidad Nacional del Nordeste (UNNE)
 ---
 
 
