@@ -71,7 +71,7 @@ As well as seeing your peers' learning process, it is good to visualise your goa
 
 ![When two students use pair-programming: 'the driver' (left) is a person who types, 'the navigator' (right) is their companion, as they solve a problem together.](/chapters/images/C39_gentle-introduction-summer-school-pair-programming.png){fig-alt="Drawing of two students pair programming together on one computer. On the left one of them is holding keyboard, then on the right the other one is holding the keyboard." }
 
-Throughout the summer school, students submitted frequent 'relentless' feedback \[TODO link to hybrid chapter\] in the form of short bullet points about what resonated with them \[TODO link to 3s1w chapter\].
+Throughout the summer school, students submitted frequent 'relentless' feedback (also described by @TeachProgAcross_C23) in the form of short bullet points about what resonated with them<!--#\[TODO link to 3s1w chapter - once in the book\]-->.
 
 Here are some of student comments combined:  
 
@@ -95,7 +95,7 @@ Cross-pollinating ideas in pair programming works surprisingly well in diverse g
 
 [^C39-ftn-pear]: By the way, 'pear' is spelled differently than 'pair', but did you know that if two pear trees exchange pollen they will have more and healthier fruit?
 
-If you'd like to know more about Pair programming, join our special interest group ([https://pairprogramming.ed.ac.uk/](https://pairprogramming.ed.ac.uk/)) or read more about how to introduce it into your classroom \[TODO: in-book ref or two\].
+If you'd like to know more about Pair programming, join our special interest group ([https://pairprogramming.ed.ac.uk/](https://pairprogramming.ed.ac.uk/)) or read more about how to introduce it into your classroom in other chapters of this book [@TeachProgAcross_C12;@TeachProgAcross_C36].
 
 ### Badges: Collect skills like Pokemon\!
 
