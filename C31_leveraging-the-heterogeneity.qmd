@@ -1,5 +1,5 @@
 ---
-title: "Leveraging the heterogeneity - teaching computing skills to a multidisciplinary cohort with a variable skill level"
+title: "Leveraging the heterogeneity: teaching computing skills to a multidisciplinary cohort with a variable skill level"
 bibliography: references.bib
 author:
   - name: Katerina Michalickova
