@@ -309,7 +309,7 @@ A clearer picture of the students is apparent when we focus on the Connect 4 ass
 
 We took all students whose Connect 4 grades were lower than 60% and attempted to identify commonalities in their experience in the reflections, focusing on comments about their own performance and the project. The assumption was that this group of students was most likely to run into difficulties and not be able to contribute to the programming aspect of the project.
 
-#### Project design determines possibilities for contribution
+### Project design determines possibilities for contribution
 
 Out of the 12 students in this group, nine were from Life Sciences or Medicine. Seven mentioned they were not skilled enough to contribute to the programming aspect of the project and ultimately took (or were given) the role of poster designer or researcher. In fact, across the entire cohort, the least experienced students tend to be relegated to the tasks with the lowest friction and, as a result, the lowest learning potential. Even students with self-reported extensive programming experience, but who performed considerably worse than their teammates in the Connect 4 assignment seemed to be given these tasks.
 
@@ -319,7 +319,7 @@ Two out of the 12 poorest performing students had little programming experience 
 
 An advanced project rooted in the discipline of the most experienced group members led to poor learning outcomes for the least experienced members. This was exacerbated by a (self-reported) non-compromising attitude of the expert members, leading us to believe that we must be more proactive in educating our students in group dynamics, especially in finding compromises.
 
-#### Self-assessment mismatch
+### Self-assessment mismatch
 
 We also looked for clues in reflections that indicated that students overestimated their programming experience with ultimate negative consequences. Approximately one out of five students described themselves as having a fair amount of experience but reflected that they expected a basic computer science course or that they did not have sufficient time to learn enough to contribute to their project.
 
