@@ -18,9 +18,6 @@ keywords:
   - group work
 ---
 
-
-# Leveraging the heterogeneity - teaching computing skills to a multidisciplinary cohort with a variable skill level
-
 ## Overarching themes
 
 To an educator, this could be the stuff of nightmares. A classroom full of bright university students who have nothing in common - discipline, motivation or prior skill level. Their expectations vary, and they all expect you to help them make sense of computing for their future research. Regardless of their differences, all students chose your elective module.
@@ -57,7 +54,7 @@ A typical example of a project would be a machine learning experiment in which, 
 
 Our approach explicitly values independence. Many second-year students, however, are still adjusting to university-style learning. We have observed variable readiness for independent work and variable motivation that reflect the high demands of the regular coursework outside the elective. For many, this module is their first opportunity to work in a multidisciplinary setting. Therefore, we also need to address the variable readiness of our students. Over the years, we came to value a coaching approach to group supervision.
 
-The module's design is based on multiple theoretical frameworks. While project-based learning principles [@Thomas2000Review] are central, interdisciplinary group work, facilitated by collaborative learning rooted in social constructivism [@Daniels2007Companion][@Piaget1970Science][@Vygotsky1978Mind] is the primary dynamic shaping students' experiences. The group work aspect was somewhat underappreciated in the initial design, and consequently, most of the design changes we have introduced so far have aimed at facilitating team dynamics and fostering various transferable collaborative skills.
+The module's design is based on multiple theoretical frameworks. While project-based learning principles [@Thomas2000Review] are central, interdisciplinary group work, facilitated by collaborative learning rooted in social constructivism [@Daniels2007Companion;@Piaget1970Science;@Vygotsky1978Mind] is the primary dynamic shaping students' experiences. The group work aspect was somewhat underappreciated in the initial design, and consequently, most of the design changes we have introduced so far have aimed at facilitating team dynamics and fostering various transferable collaborative skills.
 
 The design is based on four aims, which address the rationale above:
 
@@ -301,25 +298,14 @@ For the third theme, students' suggestions for future cohorts were in line with 
 
 Qualitative thematic analysis does not give insight into subgroups of students. Thorough analysis of reflections coupled with group membership, prior skill and achievement enables us to identify and focus on supporting groups of students who may find the design not productive.
 
-In order to better understand the diversity of the cohort, we looked at overall module grades grouped by self-appraised programming experience and their background, as shown in [Figure 1](#figure1). There is a uniformity of grades that is broadly independent of programming experience and disciplinary background. This was a goal of the assessment design, which prioritises group work and non-technical reflections.
+In order to better understand the diversity of the cohort, we looked at overall module grades grouped by self-appraised programming experience and their background, as shown in @fig-c31-self-appraisal. There is a uniformity of grades that is broadly independent of programming experience and disciplinary background. This was a goal of the assessment design, which prioritises group work and non-technical reflections.
 
-<a name="figure1"></a>
-<!---
-![Figure 1 - Graph showing the relationship between pre-module self-appraisal and
-overall module grade.](./chapters/images/C31_leveraging_heterogeneity_fig1.png "Graph showing the relationship between pre-module self-appraisal and overall module grade.")
--->
-<img src="./chapters/images/C31_leveraging_heterogeneity_fig1.png" alt="Figure 1 - Graph showing the relationship between pre-module self-appraisal and overall module grade." width="80%"><br><br>
-**Figure 1: Graph showing the relationship between pre-module self-appraisal and overall module grade.**
+![Graph showing the relationship between pre-module self-appraisal and
+overall module grade.](/chapters/images/C31_leveraging_heterogeneity_fig1.png){#fig-c31-self-appraisal fig-alt="Graph showing the relationship between pre-module self-appraisal and overall module grade"}
 
-A clearer picture of the students is apparent when we focus on the Connect 4 assignment, which was the only individual programming assessment of the module. [Figure 2](#figure2) shows grades grouped by students' self-appraised programming experience and their discipline. Broadly, we see that students from life sciences and medicine came into the course with lower programming experience and overall attained lower marks than their STEM peers. The fact that students with no prior programming experience gained good grades raised concerns regarding the use of artificial intelligence. In an anonymous survey regarding Generative AI use, all students who used AI for this assignment claimed to understand what was being suggested and provided guidance to the AI agent. This confounding factor led us to focus on students who achieved low marks for further analysis.
+A clearer picture of the students is apparent when we focus on the Connect 4 assignment, which was the only individual programming assessment of the module. @fig-c31-connect-4 shows grades grouped by students' self-appraised programming experience and their discipline. Broadly, we see that students from life sciences and medicine came into the course with lower programming experience and overall attained lower marks than their STEM peers. The fact that students with no prior programming experience gained good grades raised concerns regarding the use of artificial intelligence. In an anonymous survey regarding Generative AI use, all students who used AI for this assignment claimed to understand what was being suggested and provided guidance to the AI agent. This confounding factor led us to focus on students who achieved low marks for further analysis.
 
-<a name="figure2"></a>
-<!---
-![Figure 2 - Graph showing the relationship between pre-module self-appraisal and Connect 4 programming assignment grades.](./chapters/images/C31_leveraging_heterogeneity_fig2.png "Graph showing the relationship between pre-module self-appraisal and Connect 4 programming assignment grades.")
--->
-
-<img src="./chapters/images/C31_leveraging_heterogeneity_fig2.png" alt="Figure 2 - Graph showing the relationship between pre-module self-appraisal and Connect 4 programming assignment grades." width="80%"><br><br>
-**Figure 2: Graph showing the relationship between pre-module self-appraisal and Connect 4 programming assignment grades.**
+![Graph showing the relationship between pre-module self-appraisal and Connect 4 programming assignment grades.](/chapters/images/C31_leveraging_heterogeneity_fig2){#fig-c31-connect-4 fig-alt="Graph showing the relationship between pre-module self-appraisal and Connect 4 programming assignment grades."}
 
 We took all students whose Connect 4 grades were lower than 60% and attempted to identify commonalities in their experience in the reflections, focusing on comments about their own performance and the project. The assumption was that this group of students was most likely to run into difficulties and not be able to contribute to the programming aspect of the project.
 
